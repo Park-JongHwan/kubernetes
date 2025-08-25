@@ -5,9 +5,9 @@
 #### https://github.com/Finfra/sreMsa
 
 
-chatgpt : 일반용 (chatgpt.com)
-claude: 코딩용 (claude.ai)
-gemini : 오래감 (gemini.google.com)
-coplit : 접근성 (copilot.microsoft.com)
-perplexity : 검색기 (perplexity.ai)
-grok : 미친놈 (제일 좋지만 stable 하지 않음) (grok.com)
+#### chatgpt : 일반용 (chatgpt.com)
+#### claude: 코딩용 (claude.ai)
+#### gemini : 오래감 (gemini.google.com)
+#### coplit : 접근성 (copilot.microsoft.com)
+#### perplexity : 검색기 (perplexity.ai)
+#### grok : 미친놈 (제일 좋지만 stable 하지 않음) (grok.com)
