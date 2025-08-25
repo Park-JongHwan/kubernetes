@@ -20,3 +20,16 @@ docker run -d --name n1 -p 80:80 nginx
 ```
 
 -d => detach 백그라운드에서 실행
+
+
+```
+docker exec -it n1 bash
+```
+
+이렇게 하면 수정할 수 있게 접근함
+
+```
+echo "<h1>hi</h1>" > index.html
+```
+
+코드 바꿀수 있음
