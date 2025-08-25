@@ -33,3 +33,17 @@ echo "<h1>hi</h1>" > index.html
 ```
 
 코드 바꿀수 있음
+
+
+
+wsl -> hypervisor
+
+
+
+
+
+
+
+
+
+
