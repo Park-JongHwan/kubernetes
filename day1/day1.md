@@ -14,3 +14,9 @@
 
 
 ##### Iass, Saas, Paas 
+
+```
+docker run -d --name n1 -p 80:80 nginx
+```
+
+-d => detach 백그라운드에서 실행
