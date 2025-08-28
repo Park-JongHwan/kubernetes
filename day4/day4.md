@@ -6,6 +6,6 @@
 - Istio는
 
 
-su - root
-su root 의 차이
+#### su - root
+#### su root 의 차이
 -가 있으면 .bashrc / .zshrc / .shrc 중에서 하나가 실행됨
