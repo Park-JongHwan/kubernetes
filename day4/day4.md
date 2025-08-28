@@ -1,1 +1,1 @@
-
+- ssh -t vm01 'sudo -i' -> 바로 vm01 접속 및 root로 변환
